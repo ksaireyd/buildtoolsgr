@@ -2,7 +2,7 @@ package calctest;
 
 import calculator.Calculator;
 import org.junit.Assert;
-import org.testng.annotations.Test;
+import org.junit.jupiter.api.Test;
 
 public class TestCalc {
         Calculator  calculator = new Calculator();
