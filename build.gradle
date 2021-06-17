@@ -28,5 +28,15 @@ test {
 
 
 tasks.register("hello"){
-    println "good"
+    ext.greet = "some var"
+    doFirst{println "the first step"}
+    println "$greet"
+   doLast{ println "the last step"}
+}
+task checkDir(type:Exec){
+    commandLine 'pwd'
+}
+task checkFiles(type:Exec,dependsOn:checkDir){
+    executable "ls"
+    args '-l'
 }
