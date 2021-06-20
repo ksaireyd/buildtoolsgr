@@ -1,0 +1,93 @@
+2021-06-20 16:25:30,004 INFO  [Test worker] - checkAdding test case started
+2021-06-20 16:25:30,013 INFO  [Test worker] - checkAddingfalse test case started
+2021-06-20 16:25:30,015 ERROR [Test worker] - TEST FAILED checkAddingfalse
+2021-06-20 16:25:30,016 INFO  [Test worker] - checkAddingsecond test case started
+2021-06-20 16:25:30,017 INFO  [Test worker] - The name of the testcase passed is :[checkAdding, checkAddingsecond]
+2021-06-20 16:25:30,017 ERROR [Test worker] - The name of the testcase failed is :[checkAddingfalse]
+2021-06-20 16:44:07,610 INFO  [Test worker] - checkAdding test case started
+2021-06-20 16:44:07,642 INFO  [Test worker] - checkAddingfalse test case started
+2021-06-20 16:44:07,660 ERROR [Test worker] - TEST FAILED checkAddingfalse
+2021-06-20 16:44:07,662 INFO  [Test worker] - checkAddingsecond test case started
+2021-06-20 16:44:07,666 INFO  [Test worker] - The name of the testcase passed is :[checkAdding, checkAddingsecond]
+2021-06-20 16:44:07,666 ERROR [Test worker] - The name of the testcase failed is :[checkAddingfalse]
+2021-06-20 16:45:15,902 INFO  [Test worker] - checkAdding test case started
+2021-06-20 16:45:15,912 INFO  [Test worker] - checkAddingfalse test case started
+2021-06-20 16:45:15,913 ERROR [Test worker] - TEST FAILED checkAddingfalse
+2021-06-20 16:45:15,914 INFO  [Test worker] - checkAddingsecond test case started
+2021-06-20 16:45:15,915 INFO  [Test worker] - The name of the testcase passed is :[checkAdding, checkAddingsecond]
+2021-06-20 16:45:15,916 ERROR [Test worker] - The name of the testcase failed is :[checkAddingfalse]
+2021-06-20 16:45:49,704 INFO  [Test worker] - checkAdding test case started
+2021-06-20 16:45:49,713 INFO  [Test worker] - checkAddingfalse test case started
+2021-06-20 16:45:49,715 ERROR [Test worker] - TEST FAILED checkAddingfalse
+2021-06-20 16:45:49,715 INFO  [Test worker] - checkAddingsecond test case started
+2021-06-20 16:45:49,717 INFO  [Test worker] - The name of the testcase passed is :[checkAdding, checkAddingsecond]
+2021-06-20 16:45:49,717 ERROR [Test worker] - The name of the testcase failed is :[checkAddingfalse]
+2021-06-20 16:48:03,081 INFO  [Test worker] - checkAdding test case started
+2021-06-20 16:48:03,121 INFO  [Test worker] - checkAddingfalse test case started
+2021-06-20 16:48:03,137 ERROR [Test worker] - TEST FAILED checkAddingfalse
+2021-06-20 16:48:03,145 INFO  [Test worker] - checkAddingsecond test case started
+2021-06-20 16:48:03,146 INFO  [Test worker] - The name of the testcase passed is :[checkAdding, checkAddingsecond]
+2021-06-20 16:48:03,146 ERROR [Test worker] - The name of the testcase failed is :[checkAddingfalse]
+2021-06-20 16:48:43,566 INFO  [Test worker] - checkAdding test case started
+2021-06-20 16:48:43,574 INFO  [Test worker] - checkAddingfalse test case started
+2021-06-20 16:48:43,575 ERROR [Test worker] - TEST FAILED checkAddingfalse
+2021-06-20 16:48:43,576 INFO  [Test worker] - checkAddingsecond test case started
+2021-06-20 16:48:43,577 INFO  [Test worker] - The name of the testcase passed is :[checkAdding, checkAddingsecond]
+2021-06-20 16:48:43,577 ERROR [Test worker] - The name of the testcase failed is :[checkAddingfalse]
+2021-06-20 16:49:34,631 INFO  [Test worker] - checkAdding test case started
+2021-06-20 16:49:34,654 INFO  [Test worker] - checkAddingfalse test case started
+2021-06-20 16:49:34,655 ERROR [Test worker] - TEST FAILED checkAddingfalse
+2021-06-20 16:49:34,656 INFO  [Test worker] - checkAddingsecond test case started
+2021-06-20 16:49:34,657 INFO  [Test worker] - The name of the testcase passed is :[checkAdding, checkAddingsecond]
+2021-06-20 16:49:34,658 ERROR [Test worker] - The name of the testcase failed is :[checkAddingfalse]
+2021-06-20 16:50:16,448 INFO  [Test worker] - checkAdding test case started
+2021-06-20 16:50:16,458 INFO  [Test worker] - checkAddingfalse test case started
+2021-06-20 16:50:16,460 ERROR [Test worker] - TEST FAILED checkAddingfalse
+2021-06-20 16:50:16,461 INFO  [Test worker] - checkAddingsecond test case started
+2021-06-20 16:50:16,463 INFO  [Test worker] - The name of the testcase passed is :[checkAdding, checkAddingsecond]
+2021-06-20 16:50:16,463 ERROR [Test worker] - The name of the testcase failed is :[checkAddingfalse]
+2021-06-20 17:03:05,891 INFO  [Test worker] - checkAdding test case started
+2021-06-20 17:03:05,923 INFO  [Test worker] - checkAddingfalse test case started
+2021-06-20 17:03:05,939 ERROR [Test worker] - TEST FAILED checkAddingfalse
+2021-06-20 17:03:05,940 INFO  [Test worker] - checkAddingsecond test case started
+2021-06-20 17:03:05,942 INFO  [Test worker] - The name of the testcase passed is :[checkAdding, checkAddingsecond]
+2021-06-20 17:03:05,943 ERROR [Test worker] - The name of the testcase failed is :[checkAddingfalse]
+2021-06-20 17:04:10,132 INFO  [Test worker] - checkAdding test case started
+2021-06-20 17:04:10,249 INFO  [Test worker] - The name of the testcase passed is :[checkAdding]
+2021-06-20 17:04:10,249 ERROR [Test worker] - The name of the testcase failed is :[]
+2021-06-20 17:07:04,978 INFO  [Test worker] - checkAdding test case started
+2021-06-20 17:07:05,432 INFO  [Test worker] - The name of the testcase passed is :[checkAdding]
+2021-06-20 17:07:05,433 ERROR [Test worker] - The name of the testcase failed is :[]
+2021-06-20 17:10:43,946 INFO  [Test worker] - checkAdding test case started
+2021-06-20 17:10:51,328 INFO  [Test worker] - The name of the testcase passed is :[checkAdding]
+2021-06-20 17:10:51,328 ERROR [Test worker] - The name of the testcase failed is :[]
+2021-06-20 17:12:47,134 INFO  [Test worker] - checkAdding test case started
+2021-06-20 17:12:50,637 INFO  [Test worker] - The name of the testcase passed is :[checkAdding]
+2021-06-20 17:12:50,637 ERROR [Test worker] - The name of the testcase failed is :[]
+2021-06-20 17:13:57,734 INFO  [Test worker] - checkAdding test case started
+2021-06-20 17:14:00,794 INFO  [Test worker] - The name of the testcase passed is :[checkAdding]
+2021-06-20 17:14:00,794 ERROR [Test worker] - The name of the testcase failed is :[]
+2021-06-20 17:19:33,864 INFO  [Test worker] - checkAdding test case started
+2021-06-20 17:19:38,351 INFO  [Test worker] - The name of the testcase passed is :[checkAdding]
+2021-06-20 17:19:38,351 ERROR [Test worker] - The name of the testcase failed is :[]
+2021-06-20 17:23:06,458 INFO  [Test worker] - checkAdding test case started
+2021-06-20 17:23:11,178 INFO  [Test worker] - The name of the testcase passed is :[checkAdding]
+2021-06-20 17:23:11,178 ERROR [Test worker] - The name of the testcase failed is :[]
+2021-06-20 17:24:18,894 INFO  [Test worker] - checkAdding test case started
+2021-06-20 17:24:21,835 INFO  [Test worker] - checkAddingfalse test case started
+2021-06-20 17:24:21,837 ERROR [Test worker] - TEST FAILED checkAddingfalse
+2021-06-20 17:24:21,837 INFO  [Test worker] - checkAddingsecond test case started
+2021-06-20 17:24:21,838 INFO  [Test worker] - The name of the testcase passed is :[checkAdding, checkAddingsecond]
+2021-06-20 17:24:21,838 ERROR [Test worker] - The name of the testcase failed is :[checkAddingfalse]
+2021-06-20 17:27:28,301 INFO  [Test worker] - checkAdding test case started
+2021-06-20 17:27:32,025 INFO  [Test worker] - checkAddingfalse test case started
+2021-06-20 17:27:32,026 ERROR [Test worker] - TEST FAILED checkAddingfalse
+2021-06-20 17:27:32,027 INFO  [Test worker] - checkAddingsecond test case started
+2021-06-20 17:27:32,029 INFO  [Test worker] - The name of the testcase passed is :[checkAdding, checkAddingsecond]
+2021-06-20 17:27:32,029 ERROR [Test worker] - The name of the testcase failed is :[checkAddingfalse]
+2021-06-20 17:30:23,279 INFO  [Test worker] - checkAdding test case started
+2021-06-20 17:30:27,028 INFO  [Test worker] - checkAddingfalse test case started
+2021-06-20 17:30:27,030 ERROR [Test worker] - TEST FAILED checkAddingfalse
+2021-06-20 17:30:27,032 INFO  [Test worker] - checkAddingsecond test case started
+2021-06-20 17:30:27,033 INFO  [Test worker] - The name of the testcase passed is :[checkAdding, checkAddingsecond]
+2021-06-20 17:30:27,033 ERROR [Test worker] - The name of the testcase failed is :[checkAddingfalse]

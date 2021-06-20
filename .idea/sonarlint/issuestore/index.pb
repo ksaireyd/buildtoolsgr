@@ -23,8 +23,6 @@ b
 2.gradle/7.0.2/dependencies-accessors/gc.properties,0/6/06f873529e4e086075fc1d77461551c565574cc3
 K
 .gradle/7.0.2/gc.properties,9/8/98218ad4eaa617844c98f742e567aed68b9d9fd8
-S
-#build/reports/tests/test/index.html,a/9/a925c8b8a99ce70bdfadf43619e26e976eb36ce4
 U
 %build/reports/tests/test/js/report.js,f/9/f9923bc0441afde5cada732d7bd5b5e4419e4da1
 `
@@ -33,5 +31,3 @@ d
 4build/tmp/compileTestJava/source-classes-mapping.txt,b/6/b6485199c36cf54fc7809ec76e5352f06b635f00
 V
 &build/reports/tests/test/css/style.css,d/6/d67b5d9d66151bbb2bcc7d46eea3cc8da9b817c8
-b
-2build/test-results/test/TEST-calctest.TestCalc.xml,c/6/c659df3cbfb2b81eb46e96abe8e52aaa97f369ae
