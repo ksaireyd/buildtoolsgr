@@ -31,7 +31,7 @@ test {
     useTestNG()
     options {
         listeners << 'org.uncommons.reportng.HTMLReporter'
-        useDefaultListeners = false
+        useDefaultListeners = true
     }
 
     testLogging {

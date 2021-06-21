@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="calctest.TestCalc" tests="3" skipped="0" failures="1" errors="0" timestamp="2021-06-20T14:30:23" hostname="arch" time="3.755">
+<testsuite name="calctest.TestCalc" tests="3" skipped="0" failures="1" errors="0" timestamp="2021-06-21T09:55:47" hostname="arch" time="7.402">
   <properties/>
-  <testcase name="checkAdding" classname="calctest.TestCalc" time="3.747"/>
-  <testcase name="checkAddingfalse" classname="calctest.TestCalc" time="0.001">
+  <testcase name="checkAdding" classname="calctest.TestCalc" time="7.368"/>
+  <testcase name="checkAddingfalse" classname="calctest.TestCalc" time="0.002">
     <failure message="java.lang.AssertionError: expected [10] but found [9]" type="java.lang.AssertionError">java.lang.AssertionError: expected [10] but found [9]
 	at org.testng.Assert.fail(Assert.java:97)
 	at org.testng.Assert.assertEqualsImpl(Assert.java:136)
@@ -66,7 +66,7 @@
 </failure>
   </testcase>
   <testcase name="checkAddingsecond" classname="calctest.TestCalc" time="0.0"/>
-  <system-out><![CDATA[Response: 250 2.0.0 OK  1624199579 d3sm890216lfg.15 - gsmtp
+  <system-out><![CDATA[Response: 250 2.0.0 OK  1624269507 k21sm2066339lji.107 - gsmtp
 
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
